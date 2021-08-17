@@ -1,6 +1,5 @@
 ### 
 <div align="center">
-![](https://user-images.githubusercontent.com/65967261/129805531-03c204c8-7398-44fa-a4dd-acfd7851f028.gif)
 
 ![Carbon's github stats](https://github-readme-stats.vercel.app/api?username=CarbonUwU&show_icons=true&count_private=true&theme=midnight-purple)
 
